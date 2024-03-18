@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "next-agent"
+name = "linkstart"
 version = "0.1.0"
-description = "next-agent"
+description = "linkstart"
 authors = ["wangyuxin <wangyuxin@mokahr.com>"]
 license = "MIT"
-packages = [{include = "next_agent"}]
-repository = "https://github.com/wangyuxinwhy/next-agent"
+packages = [{include = "linkstart"}]
+repository = "https://github.com/wangyuxinwhy/linkstart"
 readme = "README.md"
 
 [tool.poetry.dependencies]
