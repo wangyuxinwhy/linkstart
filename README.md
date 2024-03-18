@@ -1,2 +1,2 @@
-# chatroom
-Agent Char Room
+# Chatroom
+Agent Chatroom
