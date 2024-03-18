@@ -1,16 +1,15 @@
 [tool.poetry]
-name = "chatroom"
+name = "multiagent"
 version = "0.1.0"
-description = "Agent ChatRoom"
+description = "multiagent"
 authors = ["wangyuxin <wangyuxin@mokahr.com>"]
 license = "MIT"
-packages = [{include = "chatroom"}]
-repository = "https://github.com/wangyuxinwhy/chatroom"
+packages = [{include = "multiagent"}]
+repository = "https://github.com/wangyuxinwhy/multiagent"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-generate-core = "^0.4.2"
 
 [tool.ruff]
 line-length = 128
