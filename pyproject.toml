@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "multiagent"
+name = "next-agent"
 version = "0.1.0"
-description = "multiagent"
+description = "next-agent"
 authors = ["wangyuxin <wangyuxin@mokahr.com>"]
 license = "MIT"
-packages = [{include = "multiagent"}]
-repository = "https://github.com/wangyuxinwhy/multiagent"
+packages = [{include = "next_agent"}]
+repository = "https://github.com/wangyuxinwhy/next-agent"
 readme = "README.md"
 
 [tool.poetry.dependencies]
